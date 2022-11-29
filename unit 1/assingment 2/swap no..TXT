@@ -1,0 +1,17 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+		
+		int a =10;
+		int b =27;
+		int c = a;
+		 a = b;
+		 b=c;
+		System.out.println("after swaipe"+b);
+		
+	}
+
+}

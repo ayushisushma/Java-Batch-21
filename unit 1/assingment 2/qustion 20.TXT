@@ -1,0 +1,16 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+	int a=1,b = 2,c = 3,sum;
+	
+	sum = a+b+c;
+
+	
+	System.out.println("output = "+sum);
+	
+	}
+	
+}

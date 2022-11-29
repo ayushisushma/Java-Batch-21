@@ -1,0 +1,15 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+		int x = 10, y = 20, z;
+		
+		z = x^2+y^2+2*x*y;
+			
+	System.out.println("value of z = "+z);
+	
+	}
+	
+}

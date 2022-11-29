@@ -1,0 +1,17 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+	int Number1=23,Number=45;
+	if(Number1 == Number ) {
+		
+		System.out.println("true");
+	}
+	
+	else {
+		System.out.println("false");
+	}
+		}
+}
