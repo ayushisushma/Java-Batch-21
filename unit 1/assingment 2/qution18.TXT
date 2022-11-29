@@ -1,0 +1,15 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+		double f= 100,c;
+		
+	c  =  (f-32)/9*5;
+			
+	System.out.println("output = "+c);
+	
+	}
+	
+}

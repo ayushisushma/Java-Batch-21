@@ -1,0 +1,25 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+		
+		int n=2;
+	
+		if( n >0 )
+		{
+			System.out.println("positive number"+n);
+			
+		}
+		else if(n <0)
+		{
+			
+	
+		System.out.println("negative"+n);
+		
+		
+		}	
+	}
+
+}

@@ -1,0 +1,22 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+		int a =23;
+		int b =45;
+		 if(a>b){
+			 
+		 
+		System.out.println("a is grater");
+
+		 }
+		 
+		else {
+			
+			System.out.println("b is grater");
+		}	
+	}
+
+}

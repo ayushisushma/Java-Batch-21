@@ -1,0 +1,15 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+		int L = 5, B = 5, Ar;
+		
+		Ar=L*B;
+			
+	System.out.println("Area = "+Ar);
+	
+	}
+	
+}

@@ -1,0 +1,15 @@
+package com.java;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		
+		float a = 10.98f;
+		int b = (int)a;
+		
+		
+		System.out.println(b);
+		
+	}
+
+}
